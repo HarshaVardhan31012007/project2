@@ -1,3 +1,3 @@
 # New Project
 
-This Project was created from local files.
+This Project was created from local.
